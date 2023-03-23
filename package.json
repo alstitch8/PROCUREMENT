@@ -1,0 +1,19 @@
+{
+  "name": "procurement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "procurementapi.js",
+  "scripts": {
+    "start": "node procurementapi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "oracledb": "^5.5.0",
+    "uuid": "^9.0.0"
+  }
+}
